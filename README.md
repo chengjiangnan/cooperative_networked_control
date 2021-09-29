@@ -1,4 +1,4 @@
-# README #
+# Cooperative Networked Control #
 This is the code release for our NeurIPS 2021 paper "Data Sharing and Compression for Cooperative Networked Control".
 
 ### Setup ###
