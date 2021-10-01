@@ -1,6 +1,8 @@
 # Cooperative Networked Control #
 This is the code release for our NeurIPS 2021 paper "Data Sharing and Compression for Cooperative Networked Control".
 
+arXiv: https://arxiv.org/abs/2109.14675
+
 ### Setup ###
 
 * export `ROBOTICS_CODESIGN_DIR` in your bashrc to be the path of this repo
